@@ -1,0 +1,13 @@
+e5b6c985311d801962cb9ed30d307bcb *DESCRIPTION
+c1e89a24dc0f71398ad0aefc812012fc *NAMESPACE
+3d59b40e613da0cde509d21603154ef8 *R/message.R
+cbfcc8b8e5aa590932352b5db87053e2 *R/mock.R
+8f0cdecf53a79301a6be990da211934d *R/noop.R
+9054ad4301aa1e40f984f19b889e993e *R/ot.R
+30c24fe8fb1e1daa858678d1d697330c *man/message.Rd
+55b10fe211226d79b1fb1e5cf755941c *man/mock.Rd
+1e7f2f4cd4903f6a5b487bdf884f050a *man/noop.Rd
+c132f6f34f771bbcad8cb267638d87fd *man/ot.Rd
+be3072a28d769c8d18da3f91d5c71a95 *man/span-methods.Rd
+c8c70a20280c3bbab0a8c2fae9e01654 *man/tracer-methods.Rd
+1df4d6e48c549e55f92a7126233f4c1c *tests/mock.R
